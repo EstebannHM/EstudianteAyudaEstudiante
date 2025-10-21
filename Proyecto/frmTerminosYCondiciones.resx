@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rkbTerminosYCondiciones.Text" xml:space="preserve">
+    <value>**Términos y Condiciones de Uso para la Aplicación E.A.E.** 
+
+**Fecha de vigencia: 8 de Marzo del 2024
+
+Por favor, lea detenidamente estos Términos y Condiciones de Uso, antes de utilizar nuestra aplicación. Al acceder o utilizar la Aplicación, usted acepta estar sujeto a estos Términos. Si no está de acuerdo con alguno de los términos establecidos a continuación, no utilice la Aplicación. 
+
+**1. Licencia de Uso:** 
+   1.1. **Concesión de Licencia: **Se otorga una licencia limitada, no exclusiva, intransferible y revocable para utilizar la Aplicación en un solo dispositivo que ejecute el sistema operativo Windows. 
+   1.2. **Restricciones: **No está permitido modificar, copiar, reproducir, distribuir, realizar ingeniería inversa, descompilar o intentar obtener el código fuente de la Aplicación. 
+
+**2. Datos del Usuario:** 
+
+    2.1. **Privacidad: **La información del usuario recopilada por la Aplicación se procesa de acuerdo con nuestra Política de Privacidad.
+    2.2. **Responsabilidad del Usuario: **Usted es responsable de la exactitud y actualización de la información proporcionada a través de la Aplicación.
+    2.3 **Uso del Pin Unico del Usuario: **Usted es responsable de crear un Pin unico y no compartirlo con nadie, ya que este se utiliza en caso de Olvidar su Contraseña, de lo contrario si lo olvida o lo comparte, es bajo su Responsabilidad.
+
+ **3. Contenido de la Aplicación:**
+    3.1. **Propiedad Intelectual: **Todos los derechos de propiedad intelectual sobre la Aplicación y su contenido son propiedad de JERAT y están protegidos por las leyes de derechos de autor y otras leyes aplicables.
+    3.2. **Contenido del Usuario: **Al cargar, enviar o mostrar contenido a través de la Aplicación, usted otorga a JERAT una licencia no exclusiva para utilizar, reproducir, modificar y distribuir dicho contenido en relación con la prestación de los servicios ofrecidos por la Aplicación. 
+
+**4. Actualizaciones y Mantenimiento:** 
+    4.1. **Actualizaciones: **JERAT se reserva el derecho de actualizar, modificar o descontinuar la Aplicación en cualquier momento, sin previo aviso. 
+
+**5. Responsabilidades y Limitaciones:** 
+    5.1. **Uso Adecuado : **Usted se compromete a utilizar la Aplicación de manera adecuada y a cumplir con todas las leyes y regulaciones aplicables. 
+    5.2. **Limitación de Responsabilidad: **JERAT no será responsable de ningún daño directo, indirecto, incidental, especial o consecuente que surja del uso o la imposibilidad de uso de la Aplicación. 
+
+**6. Términos Generales:**
+    6.1. **Modificaciones: **JERAT se reserva el derecho de modificar estos Términos en cualquier momento. Las modificaciones entrarán en vigencia después de su publicación en la Aplicación.
+    6.2. **Rescisión: **JERAT puede rescindir su acceso a la Aplicación en caso de incumplimiento de estos Términos.
+
+Al utilizar la Aplicación, usted acepta cumplir con estos Términos y Condiciones.</value>
+  </data>
+</root>
